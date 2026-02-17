@@ -1,71 +1,72 @@
-# Hi, I'm Wangxiangbo (王相博) 👋
+<div align="center">
 
-**Bachelor Student at Hangzhou Dianzi University (HDU)**  
-Hangzhou City, Zhejiang Province, China
+# 👋 Hi, I'm Wangxiangbo (王相博)
+
+**B.S. in Communication Engineering · Hangzhou Dianzi University (HDU)**  
+📍 Hangzhou, China
+
+---
+
+### 🎓 Research Experience
+**IIPL** · **MILab** @ Hangzhou Dianzi University
+
+</div>
 
 ---
 
 ## 💡 About Me
 
-- 🎓 **Undergraduate student majoring in Computer Science at HDU**
-- 🐍 **Python Developer** — passionate about building robust applications and exploring new technologies
-- 🔊 **Audio Codec Researcher** — first-author of a novel codec paper
-  - **Paper:** [Efficient Gaussian Splatting with Hybrid Octrees](https://arxiv.org/abs/2505.24437) _(Audio Codec, ICASSP 2026)_
-- 🌐 **Current Interests:** 3D Gaussian Splatting (3DGS), Computer Vision, AI  
-  Preparing new research for CVPR 2026
-- 📖 **Active learner** — always seeking new challenges in digital signal processing, computer graphics, and artificial intelligence
+<p align="center">
+  <img src="https://img.shields.io/badge/Research-MLLM%20%7C%20CV-blue?style=flat-square" alt="Research" />
+  <img src="https://img.shields.io/badge/ICASSP%202026-1st%20Author-success?style=flat-square" alt="ICASSP" />
+</p>
+
+- 🔬 **Research Focus:** MLLM, Computer Vision, neural audio codec
+- 📄 **First-author:** [SwitchCodec](https://raconiy.github.io/Switchcodec/) — high-fidelity neural audio codec with sparse quantization · **ICASSP 2026**
+- 🚀 **Co-first (2nd):** SR3R: Rethinking Super-Resolution 3D Reconstruction With Feed-Forward Gaussian Splatting — *Submitted to CVPR 2026*
+- 💻 Strong foundation in algorithms & deep learning · quick learner with solid implementation skills
 
 ---
 
-## 🗂️ Featured Projects & Publications
+## Interests
 
-- **Efficient Audio Codec Paper**  
-  _First Author, ICASSP 2026_  
-  [arXiv:2505.24437](https://arxiv.org/abs/2505.24437)
-- **Audio Codec Toolkit**  
-  _Python-based framework for experimenting with modern audio compression algorithms._
-- **3DGS Visualizer**  
-  _A visualization tool for Gaussian Splatting research (in progress)_
+**Basketball** · **Saxophone** · **Weiqi** · **Research**  
+*Collaboration & endurance · Creative expression · Strategic thinking · Rigorous inquiry*
 
 ---
 
-## 🏆 Achievements & Activities
+## 📂 Publications & Projects
 
-- 🏅 **Academic Awards:**
-  - Scholarship recipient for outstanding academic performance
-  - Top 10% in major courses
-- 🎤 **Conference Experience:**
-  - Paper accepted at ICASSP 2026 (Audio Codec)
-  - Preparing for CVPR 2026 submission (Computer Vision)
-- 👥 **Community Engagement:**
-  - Member, HDU Computer Science Association
-  - Volunteer, campus tech events
+| Project | Description |
+|:-------:|:------------|
+| **[SwitchCodec](https://arxiv.org/abs/2601.20362)** | First-author. Neural audio codec with REVQ. **ICASSP 2026.** [Demo](https://raconiy.github.io/Switchcodec/) |
+| **SR3R** | Co-first (2nd). Rethinking Super-Resolution 3D Reconstruction With Feed-Forward Gaussian Splatting · *Submitted to CVPR 2026* |
+| **Audio Codec Toolkit** | Python framework for neural audio compression experiments |
 
 ---
 
-## ⚡ Interests
+## 🏆 Achievements
 
-- 🏀 Basketball (Team Player & Streetball Fan)
-- 🎷 Saxophone (Jazz & Classical)
-- 🎶 Hip-hop & R&B music
-- 💬 Exploring AI, computer vision, and digital arts
-
----
-
-## 🌏 Languages
-
-- 🇨🇳 Chinese (Native)
-- 🇬🇧 English (Professional working proficiency)
+- ✅ ICASSP 2026 paper accepted (first-author)
+- 🎓 Scholarship recipient · top 10% in major courses
+- 👥 Member, HDU Computer Science Association
 
 ---
 
 ## 📫 Contact
 
-- **Email:** 23200410@hdu.edu.cn
-- **Location:** Hangzhou City, Zhejiang Province, China
+<p align="center">
+  <a href="mailto:23200410@hdu.edu.cn"><img src="https://img.shields.io/badge/Email-23200410%40hdu.edu.cn-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
+  <a href="https://raconiy.github.io/Switchcodec/"><img src="https://img.shields.io/badge/SwitchCodec-Demo-green?style=for-the-badge" alt="Demo" /></a>
+</p>
+
+<p align="center">
+  <strong>Hangzhou, China</strong>
+</p>
 
 ---
 
-_Always open to collaboration, research discussions, and new opportunities!_
+<p align="center">
+  <i>Open to collaboration & research discussions 🌟</i>
+</p>
 
-> "Stay curious, keep learning, and never stop exploring."
